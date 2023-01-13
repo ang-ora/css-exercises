@@ -1,0 +1,20 @@
+.oddbg,
+.oddbgbig {
+background-color: #ca7165;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddbgbig {
+    font-size: 24px;
+}
+
+#bluetext {
+    color: #0e0edd;
+    font-size: 36px;  
+}
+
+#greenbg {
+    background-color: rgb(153, 228, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
