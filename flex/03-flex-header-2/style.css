@@ -17,6 +17,7 @@ body {
 
 .logo-and-links {
   display: flex;
+  gap: 16px;
 }
 
 .notif-and-pfp {
