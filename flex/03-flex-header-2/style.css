@@ -23,6 +23,7 @@ body {
 .notif-and-pfp {
   display: flex;
   gap: 16px;
+  margin-left: auto;
 }
 
 .profile-image {
