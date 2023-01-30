@@ -39,6 +39,12 @@ body {
   margin-right: 16px;
 }
 
+.top-right-head-align {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
