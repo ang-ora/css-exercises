@@ -41,6 +41,10 @@ ul {
   padding: 0;
 }
 
+.header {
+  display: flex;
+}
+
 .left-links {
   margin-right: auto;
 }
