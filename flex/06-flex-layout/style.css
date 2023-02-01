@@ -69,4 +69,5 @@ ul {
   margin-top: auto;
   margin-bottom: auto;
   justify-content: center;
+  gap: 6px;
 }
