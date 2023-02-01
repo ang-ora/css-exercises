@@ -51,6 +51,11 @@ ul {
 .footer {
   padding: 12px;
 }
+
+.footer {
+  background-color: #eeeeee;
+}
+
 .left-links {
   margin-right: auto;
 }
