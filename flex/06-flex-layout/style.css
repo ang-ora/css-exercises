@@ -2,7 +2,10 @@
 
 body {
   height: 100vh;
+  display: flex;
+  flex-direction: column;
   margin: 0;
+  padding: 8px;
   overflow: hidden;
   font-family: Roboto, sans-serif;
 }
