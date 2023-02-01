@@ -34,5 +34,9 @@ a {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
+gap: 8px;
+margin: 0;
+padding: 0;
 }
