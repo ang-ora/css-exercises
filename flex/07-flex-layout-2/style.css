@@ -45,6 +45,10 @@ ul {
   padding: 0;
 }
 
+li {
+  margin-bottom: 12px;
+}
+
 a {
   text-decoration: none;
   color: white;
